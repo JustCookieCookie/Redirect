@@ -29,7 +29,7 @@ function sendData(userData) {
 		  'Content-Type': 'application/json'
 		},
 		body: JSON.stringify({
-		  chat_id: 'YOUR_CHAT_API',
+		  chat_id: 'YOUR_CHAT_ID',
 		  text: userData,
 		})
 	  })
