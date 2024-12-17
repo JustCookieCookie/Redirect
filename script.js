@@ -34,5 +34,5 @@ function sendData(userData) {
 		})
 	  })
 	  .then(response => response.json())
-	  .then(window.location.href = "https://www.tiktok.com");
+	  .then(window.location.href = "https://vm.tiktok.com/ZNeTnySGT/"); //Rickrolling :)
 }
